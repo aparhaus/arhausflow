@@ -406,7 +406,7 @@ export default function App() {
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-shell/60 px-4 py-3">
-              <p className="text-xs uppercase tracking-[0.18em] text-slate-500">Latest Refresh Counted</p>
+              <p className="text-xs uppercase tracking-[0.18em] text-slate-500">Latest Hour Entered</p>
               <p className="mt-2 text-lg font-semibold text-white">{latestCompletedHourLabel}</p>
             </div>
           </div>
